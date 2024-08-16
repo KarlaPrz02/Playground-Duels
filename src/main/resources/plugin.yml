@@ -1,0 +1,8 @@
+name: DuelsPlugin
+main: com.kat.playgroundduels.PlaygroundDuels
+version: 1.0
+api-version: 1.8
+commands:
+  duel:
+     description: Starts a PvP duel with another player
+     usage: /duel <player>
